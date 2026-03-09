@@ -1,0 +1,38 @@
+body {
+      background: #a5c4dd7e;
+      max-width: 800px;
+      margin: 50px auto;
+      font-family: 'Georgia', serif;
+      line-height: 1.6;
+    }
+    
+    h1 {
+      border-left: 8px solid #333;
+      padding-left: 20px;
+      font-style: italic;
+    }
+    
+    img {
+      max-width: 100%;
+      border: 2px solid #ddd;
+      transition: 0.3s;
+    }
+    
+    h2 {
+      border-left: 5px solid #333;
+      padding-left: 20px;
+      font-style: italic;
+    }
+    
+    img {
+      max-width: 50%;
+      border: 2px solid #ddd;
+      transition: 0.3s;
+    }
+    
+    .reference {
+      font-size: 12px;
+      color: #999;
+      text-align: right;
+      margin-top: 100px;
+    }
